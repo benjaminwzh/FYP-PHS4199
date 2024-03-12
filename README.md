@@ -20,3 +20,6 @@ A file that contains the PMIDs of the 1000 randomly sampled Gene2PubMed articles
 
 ###### consensus_screen.txt, none_screen.txt, rest_screen.txt
 These files contain the randomly sampled article data for manual screening. Contains each article's id, title, abstract, and recognised entities (if any).
+
+#### References
+Used packages from [pybiomart](https://github.com/jrderuiter/pybiomart), [pymongo](https://github.com/mongodb/mongo-python-driver), and [pandas](https://zenodo.org/record/3630805#.XjI9CyOIYdU).
