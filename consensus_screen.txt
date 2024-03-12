@@ -1,0 +1,92 @@
+PMID:38319949
+Membrane-Mediated Allosteric Action of Serotonin on a Noncognate G-Protein-Coupled Receptor.
+The structure and dynamics of the lipid membrane can affect the activity of membrane proteins. Therefore, small lipophilic molecules that alter membrane properties (such as the neurotransmitter serotonin) can potentially modulate receptor activity without binding to the receptor. Here, we investigated how the activity of neuropeptide Y type 4 receptor (Y4R, reconstituted in lipid bicelles) is modulated by serotonin, which has no known interaction with Y4R. We found a serotonin-concentration-dependent decrease (down to 0.1 mM of serotonin) in the ligand affinity of Y4R. This effect correlates with a serotonin-induced reduction of the resistance of the bilayer to indentation (measured by atomic force microscopy) and bilayer thickness (measured by solid state NMR) in two different types of zwitterionic lipid bicelles. Our findings indicate a "membrane-mediated allosteric effect" of serotonin on the activation of Y4R and suggest the potential for developing pharmacophores, which can modulate cellular signaling without directly interacting with any receptor.
+10809_SGCG, consensus
+7955_NPY, Reach
+9543_PSMB6, Biobert
+
+PMID:38320257
+Nutritional physiology and body composition changes during a rapid ascent to high altitude.
+Exposure to high altitude might cause the body to adapt with negative energy and fluid balance that compromise body composition and physical performance. In this field study involving 12 healthy adults, sex-balanced, aged 29±4 years with a body mass index 21.6±1.8 kg/m2, we investigated the effects fo a 4-day trekking up to 4556 m a.s.l. on Monte Rosa (Alps, Italy). The food intake was recorded using food diaries and nutrients averages were calculated. The bio-impedance analysis was performed at low and high altitude, and a wearable biosensor (Swemax) was used to track hydro-saline losses in 2 participants. Daily total energy intake was 3348±386 kcal for males and 2804±415 kcal for females (13-14% protein, 35% fat, 44-46% carbohydrates). Although there was a significant body weight loss (65.0±9.3 vs 64.2±9.10 kg, p<0.001, d=1.398), no significant changes in body composition parameter were found but a trend in the increase of the bioelectrical phase angle in males (p=0.059, d=-0.991). Body water percentage significantly changed (p=0.026, η2p=0.440), but the absolute water did not, suggesting that the weight loss was not due to water loss. Salivary and urinary osmolality did not change. A reduction in sweat rate at higher altitudes was observed in both participants. Interestingly, salivary leptin increased (p=0.014, η2p=0.510), and salivary ghrelin decreased (p=0.036, η2p =0.403). Therefore, the 4-day trek under altitude hypoxia exposure induced changes in satiety and appetite hormones. High altitude expeditions require more specific nutritional guidance, and using multiplex analysis could help in monitoring fluid balance and body composition.
+3603_FBN1, consensus
+1663_CD36, Reach
+18129_GHRL, Reach
+6553_LEP, Reach
+6277_KCNK2, Reach
+12799_WWOX, Biobert
+10943_SLC1A5, Biobert
+
+PMID:38319736
+Factors Associated With Myocardial Infarction in a Rural Population With Peripheral Arterial Diseases.
+Peripheral arterial disease (PAD) studies in rural populations are limited. The incidence of myocardial infarction (MI) is higher in patients with PAD. This study examined the association between sociodemographic and clinical risk factors and MI in patients with PAD in Central Appalachia, comprising of 230 counties across six states in the United States. Data from electronic medical records of 13,455 patients with PAD were extracted from a large health system in Central Appalachia. Bivariate and logistic regression analyses were conducted. The final sample consisted of 5574 patients with PAD, of whom 24.85% were also diagnosed with MI. The mean age was 71 ± 11.23 years, and the majority were male (56.40%). After adjusting for confounders, patients with hypertension had three times higher odds of MI (adjusted Odds Ratio [aOR] = 3.21; 95% CI: 2.50-4.14) compared with those without hypertension. The likelihood of MI increased by 51% among patients with diabetes (aOR = 1.51; 95% CI: 1.33-1.71), 34% among ever-smokers (aOR = 1.34; 95% CI: 1.18-1.52), and 45% in males (aOR = 1.45; 95% CI: 1.27-1.65). Hypertension, diabetes, smoking, and male sex were identified as significant risk factors for MI. Screening and effective management of these risk factors in rural areas could potentially prevent MI incidence among patients with PAD.
+18018_DHX40, consensus
+7105_MITF, Reach
+7701_NDUFB6, Reach
+9255_PPIB, Biobert
+
+PMID:38319289
+The Reach of Calls and Text Messages for Mailed FIT Outreach in the PROMPT Stepped-wedge Colorectal Cancer Screening Trial.
+Background Mailed fecal immunochemical test (FIT) outreach can improve colorectal cancer screening participation. We assessed the reach and effectiveness of adding notifications to mailed FIT programs. Methods We conducted secondary analyses of a stepped-wedge evaluation of an enhanced mailed FIT program (n = 15 clinics). Patients were stratified by prior FIT completion. Those with prior FIT were sent a text message (Group 1); those without were randomized 1:1 to receive a text message (Group 2) or live phone call (Group 3). All groups were sent automated phone call reminders. In stratified analysis, we measured reach and effectiveness (FIT completion within 6 months) and assessed patient-level associations using generalized estimating equations. Results Patients (n = 16,934; 83% Latino; 72% completed prior FIT) were reached most often by text messages (78%), followed by live phone calls (71%), then automated phone calls (56%). FIT completion was higher in patients with prior FIT completion vs. without (44% (Group 1) vs. 19% (Group 2 + Group 3); p <.01). For patients without prior FIT, effectiveness was higher in those allocated to a live phone call (20% (Group 3) vs. 18% (Group 2) for text message; p = .04) and in those who personally answered the live call (28% vs. 9% no call completed; p < .01). Conclusion Text messages reached the most patients, yet effectiveness was highest in those who personally answered the live phone call. Impact Despite the broad reach and low cost of text messages, personalized approaches may more successfully boost FIT completion.
+1939_CHL1, consensus
+
+PMID:38319543
+Effect and safety posterior scleral reinforcement on controlling myopia in children: a meta-analysis.
+The aim of this meta-analysis was to assess the efficacy of posterior scleral reinforcement (PSR) on the control of pediatric myopia. Electronic databases were systematically searched. Standardized mean differences (SMDs) of outcomes were calculated. Eight studies with 357 patients with pediatric myopia were included. The SMD for the increase in mean axial length (AL) in the PSR and control group was - 1.19 (95% CI - 1.71, - 0.68). The SMD for decrease of best-corrected visual acuity (BCVA) LogMAR in the PSR and control group was 0.85 (95% CI 0.28, 1.43). The SMD for change in intraocular pressure (IOP) at the time of surgery and at the end of the follow-up period in the PSR group was - 0.01 (95% CI - 0.48, 0.47). This meta-analysis indicates that PSR surgery may be an effective therapeutic strategy to control the progression of myopia in childhood with acceptable adverse effects.
+19355_JMJD6, Reach
+7701_NDUFB6, consensus
+11164_SNRPN, Biobert
+
+PMID:38319906
+Mitoxantrone and abacavir: An ALK protein-targeted in silico proposal for the treatment of non-small cell lung cancer.
+Non-small cell lung cancer (NSCLC) is a type of lung cancer associated with translocation of the EML4 and ALK genes on the short arm of chromosome 2. This leads to the development of an aberrant protein kinase with a deregulated catalytic domain, the cdALK+. Currently, different ALK inhibitors (iALKs) have been proposed to treat ALK+ NSCLC patients. However, the recent resistance to iALKs stimulates the exploration of new iALKs for NSCLC. Here, we describe an in silico approach to finding FDA-approved drugs that can be used by pharmacological repositioning as iALK. We used homology modelling to obtain a structural model of cdALK+ protein and then performed molecular docking and molecular dynamics of the complex cdALK+-iALKs to generate the pharmacophore model. The pharmacophore was used to identify potential iALKs from FDA-approved drugs library by ligand-based virtual screening. Four pharmacophores with different atomistic characteristics were generated, resulting in six drugs that satisfied the proposed atomistic positions and coupled at the ATP-binding site. Mitoxantrone, riboflavin and abacavir exhibit the best interaction energies with 228.29, 165.40 and 133.48 KJoul/mol respectively. In addition, the special literature proposed these drugs for other types of diseases due to pharmacological repositioning. This study proposes FDA-approved drugs with ALK inhibitory characteristics. Moreover, we identified pharmacophores sites that can be tested with other pharmacological libraries.
+10809_SGCG, consensus
+1316_EML4, Reach
+427_ALK, Reach
+20730_ARMC9, Reach
+26507_DUOXA1, Reach
+8000_NRGN, Biobert
+11708_TDO2, Biobert
+
+    PMID:38319973
+    Ultrahigh frequencies of peripherally matured LGI1- and CASPR2-reactive B cells characterize the cerebrospinal fluid in autoimmune encephalitis.
+    Intrathecal synthesis of central nervous system (CNS)-reactive autoantibodies is observed across patients with autoimmune encephalitis (AE), who show multiple residual neurobehavioral deficits and relapses despite immunotherapies. We leveraged two common forms of AE, mediated by leucine-rich glioma inactivated-1 (LGI1) and contactin-associated protein-like 2 (CASPR2) antibodies, as human models to comprehensively reconstruct and profile cerebrospinal fluid (CSF) B cell receptor (BCR) characteristics. We hypothesized that the resultant observations would both inform the observed therapeutic gap and determine the contribution of intrathecal maturation to pathogenic B cell lineages. From the CSF of three patients, 381 cognate-paired IgG BCRs were isolated by cell sorting and scRNA-seq, and 166 expressed as monoclonal antibodies (mAbs). Sixty-two percent of mAbs from singleton BCRs reacted with either LGI1 or CASPR2 and, strikingly, this rose to 100% of cells in clonal groups with ≥4 members. These autoantigen-reactivities were more concentrated within antibody-secreting cells (ASCs) versus B cells (P < 0.0001), and both these cell types were more differentiated than LGI1- and CASPR2-unreactive counterparts. Despite greater differentiation, autoantigen-reactive cells had acquired few mutations intrathecally and showed minimal variation in autoantigen affinities within clonal expansions. Also, limited CSF T cell receptor clonality was observed. In contrast, a comparison of germline-encoded BCRs versus the founder intrathecal clone revealed marked gains in both affinity and mutational distances (P = 0.004 and P < 0.0001, respectively). Taken together, in patients with LGI1 and CASPR2 antibody encephalitis, our results identify CSF as a compartment with a remarkably high frequency of clonally expanded autoantigen-reactive ASCs whose BCR maturity appears dominantly acquired outside the CNS.
+    6572_LGI1, consensus
+    13830_CNTNAP2, Reach
+    2434_CSF2, Reach
+    1014_BCR, Reach
+    9543_PSMB6, Biobert
+    1455_CALR, Biobert
+    11241_SPI1, Biobert
+    8101_OCA2, Biobert
+    9255_PPIB, Biobert
+
+    PMID:38319245
+    Near-Infrared Organic Photodetectors with Spectral Response over 1200 nm Adopting a Thieno[3,4-c]thiadiazole-Based Acceptor.
+    The nonclassical ten-pi-electron 5,5-fused thieno[3,4-c]thiadiazole (TTD) unit is an excellent building block for constructing sub-silicon-band gap organic semiconductors. However, no small molecule acceptor (SMA) materials based on TTD have been reported despite the fact that high-sensitivity near-infrared organic photodetectors (OPDs) are generally achieved by using SMAs. In this work, we report a TTD-based narrow band gap (0.95 eV) SMA material TTD(DTC-2FIC)2 with strong near-infrared absorption. Employing PTB7-Th as a donor, OPDs based on TTD(DTC-2FIC)2 exhibit an optimized responsivity of 0.095 (±0.007) A W-1 at 1100 nm and sustain a decent responsivity of 0.074 (±0.008) A W-1 at 1200 nm. Moreover, a good specific detectivity over 1 × 1011 Jones is achieved at a wavelength of 1200 nm. Detailed characterizations imply that the performance of TTD(DTC-2FIC)2-based OPDs may be substantially improved by choosing lower-mixing donors with shallower energy levels. This work demonstrates that SMAs incorporating TTD as the core unit hold promise for constructing high-sensitivity sub-silicon-band gap OPDs.
+    21157_GTF2H5, consensus
+    11118_SMN1, Reach
+
+    PMID:38319953
+    Bilingual translations of intensifiers in Dong-A Ilbo's news about China: A corpus-based discourse analysis approach.
+    Drawing on the framework of Ideological Square Model, this paper carries out a corpus-based analysis of the ways in which group relations and the image of China are re-shaped in the English translation (ET) and the Chinese translation (CT) of Korean news discourse about China with intensifiers as an entry of inquiry. The results show that (1) There is a statistically significant difference regarding faithfulness between the ET and the CT of intensifiers (χ2 = 38.11>3.84, p<0.05), with the ET having more translation shifts. Additionally, the Chi-square test of a 3x3 contingency table (T = 49.77>5.99, P<0.05) indicates that there is a difference between the distribution of translation shifts at the 3 levels between ET and CT. (2) The ET of Korean news about China aligns more closely with van Dijk's ideological square model, while CT violates. It is argued that South Korean media have ideological factors to consider when it comes to Chinese readers accepting CT. (3) There is an alteration of the ideological square model in the target texts. The results indicate that in the translation of a target language, the translation propensity for relevant topics of the target country in which the language is spoken obeys the rules of "Us", the ingroup, but not "them", the outgroup.
+    8754_PCYT1A, consensus
+    25458_MFSD11, consensus
+    11241_SPI1, Biobert
+    11515_TBXT, Biobert
+    6667_LPA, Biobert
+
+    PMID:38319648
+    Characteristics of throwing arm movement for an elongated implement: a comparison of the javelin and baseball throwing.
+    In javelin, although many previous studies have examined throwing movements that can increase initial velocity, the characteristics of throwing arm movement an elongated implement have not been clarified. The purpose of the present study was to examine the characteristics of the throwing movement of an elongated implement by comparing throwing movement between a javelin and baseball. Twelve male javelin throwers were asked to perform a javelin throw (JT) and a baseball long toss (LT) twice. The three-dimensional coordinates of reflective markers attached to the athlete's body, javelin, and baseball were measured using an optical motion capture system. %Trajectory was used as an index to evaluate the degree to which the hand was moved linearly during the throw. A smaller value of this indicator meant that the hand was move closer to a straight line. The joint angles in the throwing arm were obtained by calculating the Euler angles between body segments. These data were used to compare JT and LT. %Trajectory showed that JT was significantly smaller than LT. Significant differences in the joint angles of the throwing arm were noted between JT and LT. JT showed a kinematic pattern in which the hand was moved more linearly than in baseball long toss.
+    20730_ARMC9, Reach
+    6709_LTA, consensus
+    6667_LPA, Biobert
+    11241_SPI1, Biobert
+
+    bioRxiv:10.1101/2024.02.05.578113
+    Plastid phylogenomics reveals evolutionary relationships in the mycoheterotrophic orchid genus Dipodium and provides insights into plastid gene degeneration
+    The orchid genus Dipodium R.Br. (Epidendroideae) comprises leafy autotrophic and leafless mycoheterotrophic species, the latter confined to sect. Dipodium. This study examined plastome degeneration in Dipodium in a phylogenomic and temporal context. Whole plastomes were reconstructed and annotated for 24 Dipodium samples representing 14 species and two putatively new species, encompassing over 80% of species diversity in sect. Dipodium. Phylogenomic analysis based on 68 plastid loci including a broad outgroup sampling across Orchidaceae found sect. Leopardanthus as sister lineage to sect. Dipodium. Dipodium ensifolium, the only leafy autotrophic species in sect. Dipodium was found sister to all leafless, mycoheterotrophic species, supporting a single evolutionary origin of mycoheterotrophy in the genus. Divergence time estimations found that Dipodium arose ca. 33.3 Ma near the lower boundary of the Oligocene and crown diversification commenced in the late Miocene, ca. 11.3 Ma. Mycoheterotrophy in the genus was estimated to have evolved in the late Miocene, ca. 7.3 Ma, in sect. Dipodium. The comparative assessment of plastome structure and gene degradation in Dipodium revealed that plastid ndh genes were pseudogenised or physically lost in all Dipodium species, including in leafy autotrophic species of both Dipodium sections. Levels of plastid ndh gene degradation were found to vary among species as well as within species, providing evidence of relaxed selection for retention of the NADH dehydrogenase complex within the genus. Dipodium exhibits an early stage of plastid genome degradation as all species were found to have retained a full set of functional photosynthesis-related genes and housekeeping genes. This study provides important insights into plastid genome degradation along the transition from autotrophy to mycoheterotrophy in a phylogenomic and temporal context.
+    4709_GZMB, consensus
+    1455_CALR, Biobert
+    7105_MITF, Biobert
+
